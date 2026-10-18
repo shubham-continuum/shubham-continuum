@@ -14,12 +14,13 @@ When not in coding mode, you can either find me at Gym, writing Poetry or explor
   ![](https://visitor-badge.laobi.icu/badge?page_id=shubham-continuum.shubham-continuum)
   
 #### Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham-continuum&show_icons=true&title_color=ffffff&hide_border=true)
+<!-- Generated hourly by .github/workflows/metrics.yml — includes private repo commits -->
+<img src="https://raw.githubusercontent.com/shubham-continuum/shubham-continuum/main/metrics.svg" alt="GitHub stats (incl. private)" />
 <img src="https://media.giphy.com/media/1fhj2RprUOpqCObj2J/giphy.gif" height="150" alt="gif"/>  
 
 #### Languages and Tools
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-continuum&theme=vue&hide_border=true&show_icons=true)
 <img align="right" alt="gif" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" height="290">
+<img src="https://raw.githubusercontent.com/shubham-continuum/shubham-continuum/main/metrics.languages.svg" alt="Top languages (incl. private)" />
       
 
 
