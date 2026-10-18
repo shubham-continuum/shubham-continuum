@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...Life’s lessons 
 - 👯 I’m looking to collaborate on ... Anything techie
 - 💬 Ask me about ... Computer Science, Philosophy 
-- 📫 How to reach me: ... mail_me @ska10@iitbbs.ac.in
+- 📫 How to reach me: ... mail_me @ska10@iitbbs.ac.in / skagrawal@continuum-assocuates.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ... Under Depression always :(
+- ⚡ Fun fact: ... Under Construction always :(
